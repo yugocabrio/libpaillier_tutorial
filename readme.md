@@ -1,0 +1,4 @@
+- ライブラリcrate(https://crates.io/crates/libpaillier)
+- ライブラリgithub(https://github.com/mikelodder7/paillier-rs)
+- cargo test test -- --nocapture
+- 減算の方法が分からない
